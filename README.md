@@ -34,8 +34,8 @@ Notas: Apresentado no relatório “Planilha de Coordenadas Geográficas”.
 
 ###Plataforma e Requerimentos
 
-Desenvolvido para a plataforma Windows 32 e 64 bits, 2000/XP/2007 etc.
+* Desenvolvido para a plataforma Windows 32 e 64 bits, 2000/XP/2007 etc.
+* Linguagem/IDE utilizada: Visual Basic 6.
+* Recomendável Office 2003 (com service packs), 2007 ou superior instalado. 
+* Opcionalmente, é recomendável também o Google Earth desktop e AutoCAD 2000 ou superior.
 
-Linguagem/IDE utilizada: Visual Basic 6.
-
-Recomendável Office 2003 (com service packs), 2007 ou superior instalado. Google Earth e AutoCAD 2000 ou superior.
