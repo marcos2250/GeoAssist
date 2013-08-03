@@ -1,0 +1,16 @@
+form1 = 450, 54, 984, 500, C, 284, 203, 818, 649, C
+data = 83, 88, 617, 534, C
+frmMain = 85, 88, 783, 595, C, 44, 35, 803, 502, C
+Utils = 296, 113, 798, 561, C
+frmCoordImovel = 161, 91, 973, 537, C, 89, 82, 830, 592, C
+frmDadosImovel = 112, 108, 924, 554, C, 11, 41, 556, 495, C
+frmDocumentos = 131, 51, 943, 499, C, 55, 115, 867, 577, C
+Geo = 85, 129, 897, 577, C
+frmDadosPadrao = -350, 75, 462, 521, C, 52, 32, 543, 482, C
+frmDatum = 44, 44, 856, 492, C, -301, 100, 511, 548, C
+frmConvCoordPolar = 0, 0, 0, 0, C, 22, 22, 787, 470, C
+frmConvCoordGeo = 132, 132, 439, 478, C, 44, 44, 809, 492, C
+frmTransformaDatum = 220, 220, 1021, 668, C, 66, 66, 831, 514, C
+frmDadosCartograficos = 0, 0, 307, 346, C, 88, 88, 853, 536, C
+AutoCadUtil = 176, 176, 977, 624, C
+RelatoriosUtil = 220, 220, 1021, 668, C

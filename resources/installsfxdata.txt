@@ -1,0 +1,10 @@
+;O comentário abaixo contém comando de sequência SFX
+
+Path=GeoAssist
+SavePath
+Setup=install.bat
+Overwrite=1
+Title=Instalação do GeoAssist
+Shortcut=P, geoassist.exe, GeoAssist, "Inicia o aplicativo GeoAssist", GeoAssist, 
+Shortcut=P, manual_geoassist.pdf, GeoAssist, "Instruções do programa", Manual do Utilizador, 
+Shortcut=D, geoassist.exe, , "Inicia o aplicativo GeoAssist", Geoassist, 
