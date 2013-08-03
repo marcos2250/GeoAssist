@@ -9,8 +9,8 @@ O GeoAssist oferece as seguintes funções:
 * Visualização 2D precisa, fácil de usar;
 * Cadastramento de confrontantes, com visualização no mapa;
 * Cadastramento das informações imobiliárias e pessoais;
-* Cálculo de área, perímetro, azimutes e cotas*;
-* Cálculo de coordenadas geodésicas*;
+* Cálculo de área, perímetro, azimutes e cotas;
+* Cálculo de coordenadas geodésicas;
 * Cálculo da convergência meridiana e fator de escala;
 * Conversão de coordenadas cartesianas em polares, e vice-versa;
 * Conversões de coordenadas entre Datums, UTM e Latitude/Longitude;
@@ -28,8 +28,6 @@ O GeoAssist possui as seguintes limitações:
   separadamente, e suas poligonais agrupadas manualmente, por via
   de outro software CAD externo (AutoCAD e outros);
 
-
-Notas: Apresentado no relatório “Planilha de Coordenadas Geográficas”.
 
 
 ###Plataforma e Requerimentos
