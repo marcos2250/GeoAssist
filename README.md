@@ -37,3 +37,14 @@ O GeoAssist possui as seguintes limitações:
 * Recomendável Office 2003 (com service packs), 2007 ou superior instalado. 
 * Opcionalmente, é recomendável também o Google Earth desktop e AutoCAD 2000 ou superior.
 
+
+
+###Compilando o projeto e instalação
+
+1. Para montar o ambiente de desenvolvimento, é necessário possuir o Visual Basic 6.
+2. O módulo SuperFlexGrid (src/superFlexGrid/SuperGrid.vbp) é um componente OCX utilizado pelo GeoAssist, é necessário primeiramente compilar o arquivo SuperGrid.OCX e registrá-lo no ambiente do Windows (System32/SYSWOW64).
+2. Em seguida, importar o projeto principal (src/GeoAssist.vbp), verificar se as dependências estão ok e compilar seu executável GeoAssist.EXE.
+3. Para "deploy", teste ou debug, juntar os 2 artefatos gerados, mais os arquivos contidos em *resources* no mesmo diretório. 
+
+Para instalação manual em outros PCs, basta copiar os arquivos compilados e os arquivos contidos em *resources*, e executar o **install.bat**.
+O WinRAR pode ser usado para montar um instalador automático (SFX), bastando compactar os arquivos da pasta em modo SFX, e acrescentando o conteúdo do script *installsfxdata.txt* na aba "Comentários".
